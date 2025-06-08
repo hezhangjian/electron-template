@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "devDependencies": {
     "@types/node": "^22.15.18",
+    "electron": "^36.4.0",
     "typescript": "^5.8.3"
   }
 }
